@@ -3,7 +3,7 @@ h![MasterHead](https://i.pinimg.com/1200x/da/07/69/da076951e1147dbaca66f4a527d93
 <h1 align="center">✨ Hola, soy Davii</h1>
 <h3 align="center">🎬 Creador digital | UI Designer | Editor audiovisual</h3>
 
-<img align="right" alt="editing" width="350" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+<img align="right" alt="editing" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWszZG1iZDJxdmNrbWVhZDN4cWxxamN5dG1xcHhkbnk2a2wwbXJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gbi5hbkFCwlum2VpT6/giphy.gif">
 
 ---
 
